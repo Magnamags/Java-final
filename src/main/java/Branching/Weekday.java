@@ -1,7 +1,8 @@
+package Branching;
 
 import java.util.Scanner;
 
-public class Branch {
+public class Weekday {
 public static void main (String[] args){
     System.out.println("Enter the num: ");
     Scanner Sc = new Scanner(System.in);
