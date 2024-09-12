@@ -20,7 +20,6 @@ public static void main (String[] args){
         System.out.println("This is a Friday");
     else if (num==7)
         System.out.println("This is a Saturday");
-
     else System.out.println("The value should be from 1 to 7");
 
 
